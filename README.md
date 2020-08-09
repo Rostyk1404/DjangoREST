@@ -59,6 +59,8 @@ INSTALLED_APPS = [
     ...
     'rest_framework',
 ]
+
+
 If you're intending to use the browsable API you'll probably also want to add REST framework's login and logout views. Add the following to your root urls.py file.
 
 urlpatterns = [
