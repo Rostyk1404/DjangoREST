@@ -73,3 +73,5 @@ Run Django Project
 Go to the folder with manage.py file, run DjangoREST.api
 
 python manage.py runserver
+
+IF IMORTS WILL NOT WORK THEN MAKE A RIGHT CLICK ON A FOLDER (DjangoRest) AND CHOOSE MARK DIRECTORY AS ==> SOURCE ROOT 
